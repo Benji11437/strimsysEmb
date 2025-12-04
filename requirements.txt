@@ -1,12 +1,12 @@
 Flask==2.2.5
-gunicorn==21.2.0
+gunicorn==22.0.0
 numpy==1.23.5
-Pillow==10.2.0
-streamlit==1.32.0
-requests==2.31.0
+Pillow==10.3.0
+streamlit==1.37.0
+requests==2.32.4
 tensorflow==2.15.0
-keras==3.0.5
+keras==3.12.0
 segmentation-models @ git+https://github.com/qubvel/segmentation_models.git@5d24bbfb28af6134e25e2c0b79e7727f6c0491d0
 opencv-python-headless==4.8.1.78
-protobuf==3.20.3
+protobuf==4.25.8
 h5py==3.10.0
