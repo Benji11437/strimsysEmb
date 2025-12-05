@@ -1,0 +1,40 @@
+# Web framework
+Flask==2.2.5
+gunicorn==21.2.0
+
+# Scientific computing
+numpy==1.23.5
+pandas==2.1.1
+scipy==1.11.1
+matplotlib==3.7.1
+
+# TensorFlow/Keras compatible avec segmentation_models
+tensorflow==2.13.0
+keras==2.13.1
+
+# Segmentation models et EfficientNet compatibles
+segmentation-models==1.0.1
+efficientnet==1.0.0
+
+# Image processing
+opencv-python==4.8.1.78
+Pillow==10.0.0
+scikit-image==0.21.0
+
+# Streamlit stable pour Azure
+streamlit==1.28.0
+watchdog==3.0.0
+
+# HTTP requests
+requests==2.31.0
+
+# Azure support (facultatif si vous utilisez Blob storage)
+azure-storage-blob==12.22.1
+
+# Utilities
+typing_extensions==4.15.0
+tzdata==2025.2
+urllib3==2.5.0
+Werkzeug==3.1.4
+wrapt==2.0.1
+zipp==3.23.0
